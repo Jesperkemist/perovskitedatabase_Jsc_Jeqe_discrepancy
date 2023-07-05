@@ -8,6 +8,7 @@ Integrated Quantum Efficiency in Perovskite Solar Cells
 By
 
 Michael Saliba Eva Unger, Lioz Etgar, Jingshan Luo, T. Jesper Jacobsson
+
 in Nature Communication, 2023
 
 
