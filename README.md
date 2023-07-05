@@ -1,9 +1,12 @@
 # Perovskite Database Jsc vs Jeqe mismatch
 
 This repository contains the data and the code used for generating all figures in the paper:
+
 A Systematic Discrepancy Between the Short Circuit Current and the
 Integrated Quantum Efficiency in Perovskite Solar Cells
+
 By
+
 Michael Saliba Eva Unger, Lioz Etgar, Jingshan Luo, T. Jesper Jacobsson
 in Nature Communication, 2023
 
