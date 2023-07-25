@@ -12,6 +12,12 @@ Michael Saliba Eva Unger, Lioz Etgar, Jingshan Luo, T. Jesper Jacobsson
 in Nature Communication, 2023
 
 
+## Requirements
+The scripts have been tested on Windos 10 runing python 3:10
+
+Requires: Numpy, Pandas, Seaborn, Matplotlib
+
+
 ## How to cite
 
 If you use this code in your research, we kindly ask that you cite the published paper:
